@@ -1,5 +1,5 @@
 {
-    "name": "coreyrdean/address-parser",
+    "name": "coreyrdean/php-address-parser",
     "description": "A PHP library covers PHP 7.3 to 8.2, split an address street to street, states, city, zipcode.",
     "type": "library",
     "license": "MIT",
